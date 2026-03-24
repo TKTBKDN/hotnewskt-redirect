@@ -66,10 +66,10 @@ const DEFAULT_REDIRECT = 'https://topnewsus.feji.io';
 // ============= CONFIGURATION =============
 const CONFIG = {
   // Primary API endpoint
-  API_URL: 'https://apisport.vbonews.com/News/news-detailbasic',
+  API_URL: 'https://apinewspaper.vbonews.com/News/news-detailbasic',
 
   // Backup JSON CDN (R2 hoặc CDN khác)
-  BACKUP_URL: 'https://file.lifenews247.com/sportnews/backup',
+  BACKUP_URL: 'https://file.lifenews247.com/tktnews/backup',
 
   // API timeout in milliseconds
   API_TIMEOUT: 3000,
