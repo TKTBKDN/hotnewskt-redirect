@@ -24,7 +24,7 @@ const DOMAIN_GROUPS = {
   'https://news.daily24.blog': ['newspaperusa24h.com'],
 
   // Nhóm 2
-  'https://loveus.daily24.blog': ['hotmusicpulse.com', 'rhythmwavenews.com', 'echobeats.net', 'tracklovers.net', 'hotnewsusvip.com'],
+  'https://loveus.daily24.blog': ['todaynow24h.com'],
 
   // Nhóm 3
   'https://vtus.daily24.blog': ['melodyhubs.com', 'groovenations.com', 'songverse.net', 'echobeatz.com', 'noteplay.xyz'],
