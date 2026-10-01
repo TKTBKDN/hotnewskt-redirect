@@ -28,7 +28,7 @@ const DOMAIN_GROUPS = {
   // Nhóm 2
  // 'https://loveustk.cafex.biz': ['todaynow24h.com'],
    // Nhóm 2
-  'https://lovetk.cfx.bz': ['todaynow24h.com'],
+  'https://loveustk.cafex.biz': ['todaynow24h.com'],
 
   // Nhóm 3
   'https://vtus.daily24.blog': ['melodyhubs.com', 'groovenations.com', 'songverse.net', 'echobeatz.com', 'noteplay.xyz'],
