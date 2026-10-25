@@ -21,14 +21,14 @@ const GROUP_1_TARGET = 'https://hotnews.daily24.blog';
 
 const DOMAIN_GROUPS = {
   // Nhóm 1
-  'https://newsustk.cafex.biz': ['newspaperusa24h.com'],
+  'https://newsustk.cafex.biz': ['newspaperusa24h.com','todaynow24h.com'],
   'https://trendlnk.com': ['toptrendlnk.com'],
   
 
   // Nhóm 2
  // 'https://loveustk.cafex.biz': ['todaynow24h.com'],
    // Nhóm 2
-  'https://newsustk.cafex.biz': ['todaynow24h.com'],
+  //'https://newsustk.cafex.biz': ['todaynow24h.com'],
   //'https://lovenewsus.com': ['todaynow24h.com'],
 
   // Nhóm 3
